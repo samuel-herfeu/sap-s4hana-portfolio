@@ -1,0 +1,7 @@
+{
+  "sap.app": {
+    "id": "zui.stock.audit.zuistockaudit",
+    "type": "application",
+    "title": "Stock Audit Dashboard"
+  }
+}
